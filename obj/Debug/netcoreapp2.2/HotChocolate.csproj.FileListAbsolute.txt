@@ -1,0 +1,16 @@
+C:\Prestacap\HotChocolate\HotChocolate\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Prestacap\HotChocolate\HotChocolate\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Prestacap\HotChocolate\HotChocolate\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Prestacap\HotChocolate\HotChocolate\bin\Debug\netcoreapp2.2\HotChocolate.deps.json
+C:\Prestacap\HotChocolate\HotChocolate\bin\Debug\netcoreapp2.2\HotChocolate.runtimeconfig.json
+C:\Prestacap\HotChocolate\HotChocolate\bin\Debug\netcoreapp2.2\HotChocolate.runtimeconfig.dev.json
+C:\Prestacap\HotChocolate\HotChocolate\bin\Debug\netcoreapp2.2\HotChocolate.dll
+C:\Prestacap\HotChocolate\HotChocolate\bin\Debug\netcoreapp2.2\HotChocolate.pdb
+C:\Prestacap\HotChocolate\HotChocolate\obj\Debug\netcoreapp2.2\HotChocolate.csprojAssemblyReference.cache
+C:\Prestacap\HotChocolate\HotChocolate\obj\Debug\netcoreapp2.2\HotChocolate.RazorAssemblyInfo.cache
+C:\Prestacap\HotChocolate\HotChocolate\obj\Debug\netcoreapp2.2\HotChocolate.RazorAssemblyInfo.cs
+C:\Prestacap\HotChocolate\HotChocolate\obj\Debug\netcoreapp2.2\HotChocolate.AssemblyInfoInputs.cache
+C:\Prestacap\HotChocolate\HotChocolate\obj\Debug\netcoreapp2.2\HotChocolate.AssemblyInfo.cs
+C:\Prestacap\HotChocolate\HotChocolate\obj\Debug\netcoreapp2.2\HotChocolate.RazorTargetAssemblyInfo.cache
+C:\Prestacap\HotChocolate\HotChocolate\obj\Debug\netcoreapp2.2\HotChocolate.dll
+C:\Prestacap\HotChocolate\HotChocolate\obj\Debug\netcoreapp2.2\HotChocolate.pdb
