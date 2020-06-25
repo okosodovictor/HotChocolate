@@ -36,7 +36,7 @@ namespace HotChocolate
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddDbContext<EntityContext>(options =>
-                options.UseSqlServer(Configuration["ConnectionStrings:CarvedRock"]));
+                options.UseSqlServer("Server=DESKTOP-ENL1AQG;database=chococo.local;Trusted_Connection=Yes;MultipleActiveResultSets=True;"));
 
             services.AddScoped<IProductRepository, ProductRepository>();
 
